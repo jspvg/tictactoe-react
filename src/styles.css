@@ -86,5 +86,14 @@ body {
 }
 
 .game-info {
+  text-align: center;
   margin-left: 20px;
+}
+
+.toggleSwitch{
+  padding: 10px;
+}
+
+.colored{
+  background-color: greenyellow;
 }
